@@ -15,7 +15,7 @@
 [ᴄᴏɴꜰɪɢᴜʀᴀᴛɪᴏɴ](https://github.com/Itsunknown-12/Zaid-Robot/blob/master/Configuration)
 
 ## 🆂🆄🅿🅿🅾🆁🆃
-[! Click here for D⃠𝐄𝐕𝐈𝐋 𝐐𝐔𝐄𝐄𝐍 Bot support](https://t.me/devil_bot_supportchat)
+[ Click here for Devil Queen Bot support chat](https://t.me/devil_bot_supportchat)
 ## 🆃🅷🅰🅽🅺🆂 🅵🅾🆁 🅲🅾🅳🅴🆂...
 
  - [RAVAN-BOT](https://github.com/Dhruvxbhudev2/YoneRobot)
