@@ -15,13 +15,13 @@
 [ᴄᴏɴꜰɪɢᴜʀᴀᴛɪᴏɴ](https://github.com/Itsunknown-12/Zaid-Robot/blob/master/Configuration)
 
 ## 🆂🆄🅿🅿🅾🆁🆃
-[![Draculla](https://img.shields.io/badge/Draculla-red?style=for-the-badge&logo=telegram)](https://t.me/dracullasupport)</br></br>
-[![Draculla](https://img.shields.io/badge/dracullasupport-red?style=for-the-badge&logo=telegram)](https://t.me/dracullasupport)</br></br>
-[![CONTACT ME](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/deamonjames)
+[![D⃠𝐄𝐕𝐈𝐋 𝐐𝐔𝐄𝐄𝐍 Bot](https://img.shields.io/badge/Draculla-red?style=for-the-badge&logo=telegram)](https://t.me/devil_bot_supportchat)</br></br>
+[![D⃠𝐄𝐕𝐈𝐋 𝐐𝐔𝐄𝐄𝐍 Bot](https://img.shields.io/badge/dracullasupport-red?style=for-the-badge&logo=telegram)](https://t.me/devil_bot_supportchat)</br></br>
+[![CONTACT ME](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/versio_n_02)
 
 ## 🆃🅷🅰🅽🅺🆂 🅵🅾🆁 🅲🅾🅳🅴🆂...
 
- - [Saitama Robot](https://github.com/AnimeKaizoku/SaitamaRobot)
- - [Layla Bot](https://github.com/QueenArzoo/LaylaRobot) For Help Modules🙄
+ - [RAVAN-BOT](https://github.com/Dhruvxbhudev2/YoneRobot)
+
 
 
