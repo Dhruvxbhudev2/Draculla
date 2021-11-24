@@ -5,7 +5,7 @@
 
 
 <p align = "center">
-<a href = "https://github.com/botuseonly1/Draculla">
+<a href = "https://github.com/Dhruvxbhudev2/Draculla/blob/master/README.md#-%F0%9D%90%93%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%90%8C%F0%9D%90%A8%F0%9D%90%AC%F0%9D%90%AD-%F0%9D%90%8F%F0%9D%90%A8%F0%9D%90%B0%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%9F%F0%9D%90%AE%F0%9D%90%A5%F0%9D%90%A5-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%AE%F0%9D%90%A9-%F0%9D%90%8C%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9A%F0%9D%90%A0%F0%9D%90%9E%F0%9D%90%A6%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%81%F0%9D%90%A8%F0%9D%90%AD-">
 <img src = "https://forthebadge.com/images/badges/open-source.svg">
 </p>
 </a>
