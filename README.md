@@ -6,8 +6,6 @@
 
 
 
-## 🅡🅔🅟🅞 🅢🅣🅐🅣🅢
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=deamonjames-12&repo=Draculla&theme=dark)
 
 ## 🅓🅔🅟🅛🅞🅨
 [![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itsunknown-12/TGN-Robot)
