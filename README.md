@@ -15,10 +15,7 @@
 [ᴄᴏɴꜰɪɢᴜʀᴀᴛɪᴏɴ](https://github.com/Itsunknown-12/Zaid-Robot/blob/master/Configuration)
 
 ## 🆂🆄🅿🅿🅾🆁🆃
-[![D⃠𝐄𝐕𝐈𝐋 𝐐𝐔𝐄𝐄𝐍 Bot](https://img.shields.io/badge/Devil_bot-red?style=for-the-badge&logo=telegram)](https://t.me/devil_bot_supportchat)</br></br>
-[![D⃠𝐄𝐕𝐈𝐋 𝐐𝐔𝐄𝐄𝐍 Bot](https://img.shields.io/badge/devil_bot-red?style=for-the-badge&logo=telegram)](https://t.me/devil_bot_supportchat)</br></br>
-[![CONTACT ME](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/versio_n_02)
-
+[! Click here for D⃠𝐄𝐕𝐈𝐋 𝐐𝐔𝐄𝐄𝐍 Bot support](https://t.me/devil_bot_supportchat)
 ## 🆃🅷🅰🅽🅺🆂 🅵🅾🆁 🅲🅾🅳🅴🆂...
 
  - [RAVAN-BOT](https://github.com/Dhruvxbhudev2/YoneRobot)
