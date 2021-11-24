@@ -74,26 +74,26 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-ʜᴏɪ, ɪ ᴍ DRACULLA ʀᴏʙᴏᴛ
+ʜᴏɪ, ɪ ᴍ D⃠𝐄𝐕𝐈𝐋 𝐐𝐔𝐄𝐄𝐍 Bot ʀᴏʙᴏᴛ
 `ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ ᴀɴᴅ ɪ ᴍ ᴠᴇʀʏ ᴘᴏᴡᴇʀꜰᴜʟʟ ʙᴏᴛ! ʜɪᴛ` /help
- [❤](https://telegra.ph/file/d3ff42a4c7e294bfb95e0.jpg)
+ [🥳](https://te.legra.ph/file/4033a3cf309cdaa6b0ca0.jpg)
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="ᴀᴅᴅ DRACULLA ʀᴏʙᴏᴛ ᴛᴏ ᴜʀ ᴄʜᴀᴛ", url="t.me/draculla_bot?startgroup=true"),
+            text="ᴀᴅᴅ D⃠𝐄𝐕𝐈𝐋 𝐐𝐔𝐄𝐄𝐍 Bot ʀᴏʙᴏᴛ ᴛᴏ ᴜʀ ᴄʜᴀᴛ", url="t.me/devil_queenbot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="ꜱᴏᴜʀᴄᴇ 💫", url=f"https://github.com/Itsunknown-12/TGN-Robot"),
+        InlineKeyboardButton(text="ꜱᴏᴜʀᴄᴇ 💫", url=f"https://github.com/Dhruvxbhudev2/Draculla"),
         InlineKeyboardButton(
-            text="ꜱᴜᴘᴘᴏʀᴛ ⚡", url=f"https://t.me/{SUPPORT_CHAT}"
+            text="ꜱᴜᴘᴘᴏʀᴛ ⚡", url=f"https://t.me/devil_bot_supportchat{SUPPORT_CHAT}"
         ),
     ],
     [
-        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇꜱ ☑️", url=f"https://t.me/dracullasupport"),
+        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇꜱ ☑️", url=f"https://t.me/devil_bot_supportchat"),
         InlineKeyboardButton(
-            text="Draculla ᴄʜᴀᴛ", url=f"https://t.me/powerrangersguys"
+            text="D⃠𝐄𝐕𝐈𝐋 𝐐𝐔𝐄𝐄𝐍 ᴄʜᴀᴛ", url=f"https://t.me/powerrangersguys"
         ),
     ],
     [
@@ -104,14 +104,11 @@ buttons = [
 
 HELP_STRINGS = """
 `ʏᴏᴜ ᴄᴀɴ ᴄʜᴏᴏꜱᴇ ᴀɴ ᴏᴘᴛɪᴏɴ ʙᴇʟᴏᴡ, ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴀ ʙᴜᴛᴛᴏɴ..`
-ᴀʟꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴀꜱᴋ ᴀɴʏᴛʜɪɴɢ ɪɴ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ [❤️](https://telegra.ph/file/d3ff42a4c7e294bfb95e0.jpg)"""
+ᴀʟꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴀꜱᴋ ᴀɴʏᴛʜɪɴɢ ɪɴ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ [🥳](https://te.legra.ph/file/4033a3cf309cdaa6b0ca0.jpg)"""
 
 START_IMG = "https://telegra.ph/file/63d1ee18f81c92d11210e.mp4"
 
-DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project [JAMES](t.me/deamonjames) \
- Supporting isnt always financial! [ ɴᴇᴛᴡᴏʀᴋ](https://t.me/dracullasupport) \
- Those who cannot provide monetary support are welcome to help us develop the bot at ."""
+DONATE_STRING = """ey GUYS WE DON'T WANT ANY TYPE OF DONATION\JUST SUPPORT US https://t.me/devil_bot_supportchat\If u Are Dev than contact me on here @versio_n_02"""
 
 IMPORTED = {}
 MIGRATEABLE = []
