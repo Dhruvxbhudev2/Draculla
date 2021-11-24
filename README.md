@@ -1,13 +1,8 @@
 <h1 align = "center"> ❝𝐓𝐡𝐞 𝐌𝐨𝐬𝐭 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥𝐥 𝐆𝐫𝐨𝐮𝐩 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐁𝐨𝐭❞ </h1>
 
 
-<p align = "center"><a herf = "https://t.me/draculla_bot" alt = "Draculla"><img src = "https://telegra.ph/file/d3ff42a4c7e294bfb95e0.jpg" width = "900"></a></p>
+<p align = "center"><a herf = "https://t.me/draculla_bot" alt = "D⃠𝐄𝐕𝐈𝐋 𝐐𝐔𝐄𝐄𝐍 bot"><img src = "https://te.legra.ph/file/4033a3cf309cdaa6b0ca0.jpg" width = "900"></a></p>
 
-<p align = "center">
-<a href = "https://python.org">
-<img src = "https://forthebadge.com/images/badges/made-with-python.svg">
-</p>
-</a>
 
 <p align = "center">
 <a href = "https://github.com/botuseonly1/Draculla">
